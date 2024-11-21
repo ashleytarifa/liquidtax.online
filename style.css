@@ -20,6 +20,7 @@
     --rd: #FF5700;
     --px: #d12e2e;
     --gh: #24292e;
+    --twt: #000000;
 }
 
 body, html {
@@ -79,6 +80,10 @@ body, html a {
 .cont-stuffilike {
     align-items: center;
     justify-content: center;
+}
+
+.cont-stuffilike img {
+    border-radius: 5px;
 }
 
 .cont-aboutme p {
@@ -158,6 +163,17 @@ body, html a {
     font-family: "Pixeloid Sans", sans-serif;
 }
 
+.btn-twt button {
+    cursor: pointer;
+    background-color: var(--twt);
+    border-radius: 5px;
+    border: none;
+    padding: 8px;
+    color: var(--w);
+    transition-duration: 0.4s;
+    font-family: "Pixeloid Sans", sans-serif;
+}
+
 .btn-bsk button:hover {
     background-color: var(--gradient-start);
     color: var(--bsk);
@@ -182,6 +198,12 @@ body, html a {
     background-color: var(--gradient-start);
     color: var(--gh);
 }
+
+.btn-twt button:hover {
+    background-color: var(--gradient-start);
+    color: var(--twt);
+}
+
 
 
 /* image grids */

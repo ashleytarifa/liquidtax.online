@@ -291,6 +291,7 @@ body, html a {
     .cont-aboutme,
     .cont-howitstarted,
     .cont-social,
+    .cont-stuffilike,
     .cont-code,
     .cont-arts,
     .cont-cat,
@@ -301,6 +302,10 @@ body, html a {
 
     .arts-grid, .cat-grid {
         grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    }
+
+    .cont-stuffilike img {
+        width: 95%;
     }
 }
 

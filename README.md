@@ -17,7 +17,7 @@ you can visit it here: **[liquidtax.online](https://liquidtax.online)**
 
 ## 🧪 built with:
 
-- HTML + CSS (vanilla and pure, like the old days!)  
+- HTML + CSS + a little bit of JS (vanilla and pure, like the old days!)  
 - hosted on GitHub Pages but with my own domain!
 - made with lots of love (and some silly energy) :3
 

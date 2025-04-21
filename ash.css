@@ -254,7 +254,7 @@ body {
 
 /* ===== Art Gallery ===== */
 .corkboard {
-  background: url('/images/cork-texture.jpeg');
+  background: url('images/cork-texture.jpeg');
   border: 12px solid #8B5A2B;
   border-radius: 12px;
   padding: 24px;

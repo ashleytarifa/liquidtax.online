@@ -102,19 +102,23 @@ body {
   margin: 0 auto;
 }
 
+/* ===== Profile Card Fix ===== */
 .profile-card {
   position: relative;
   background: #d6b9f2;
   padding: 2rem;
   border-radius: 1rem;
   text-align: center;
-  overflow: hidden;
+  min-height: auto;
+  margin-bottom: 1rem;
 }
 
-/* ===== Components ===== */
+
 .profile-pic {
   position: absolute;
   right: 1rem;
+  top: 50%;
+  transform: translateY(-50%); 
   width: 64px;
   height: 64px;
   border-radius: 50%;
@@ -371,6 +375,19 @@ body {
     display: none;
   }
 
+  .profile-card {
+    min-height: auto;
+    padding-bottom: 80px;
+  }
+  
+  .profile-pic {
+    position: relative;
+    right: auto;
+    top: auto;
+    transform: none;
+    margin: 1rem auto 0;
+    display: block;
+  }
   .top-card,
   .smedia-card,
   .tags,

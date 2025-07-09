@@ -326,20 +326,6 @@ body {
   pointer-events: none;
 }
 
-#music-toggle {
-  position: fixed;
-  bottom: 20px;
-  right: 20px;
-  background-color: #d6b0f1;
-  color: #3a1c58;
-  padding: 10px 12px;
-  border: 2px dashed #3a1c58;
-  border-radius: 8px;
-  cursor: pointer;
-  z-index: 1000;
-  box-shadow: 2px 2px 0px #000;
-}
-
 .zoom-overlay {
   position: fixed;
   top: 0;

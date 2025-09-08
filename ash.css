@@ -102,6 +102,9 @@ body {
   margin: 0 auto;
 }
 
+.collection {
+  width: 100%;
+}
 /* ===== Profile Card ===== */
 .profile-card {
   position: relative;

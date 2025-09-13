@@ -1,6 +1,6 @@
-# liquidtax.online · Ashley's Portfolio
+# liquidtax.online · ash64's Portfolio
 
-hii! i'm Ashley (also known as liquid_tax or ash64 online) and this is my personal portfolio — a cozy little space where I share my works, experiments and nerdy passions!
+hii! i'm Ashley (also known as ash64, lunna or liquid_tax online) and this is my personal portfolio, a cozy little space where i share my works, experiments and nerdy passions!
 
 you can visit it here: **[liquidtax.online](https://liquidtax.online)**
 
@@ -9,9 +9,9 @@ you can visit it here: **[liquidtax.online](https://liquidtax.online)**
 ## ✨ what's inside?
 
 - 🎨 my pixel arts and game-inspired visuals  
-- 💻 web design with a retro + kawaii twist  
-- 🛠️ projects, experiments and other ideas  
-- 🌌 aesthetic stars, pastel vibes, and a cat (yes.)
+- 💻 cozy web design 
+- 🛠️ projects, collections and other ideas  
+- 🌌 stars, pastel colors, and a cat
 
 ---
 
@@ -25,6 +25,6 @@ you can visit it here: **[liquidtax.online](https://liquidtax.online)**
 
 ## 📫 contact
 
-if you want to reach out, say hi or anything, feel free to open an issue or find me around the web as `@liquid_tax`
+if you want to reach out, say hi or anything, feel free to open an issue or find me around the web as `@liquid_tax` 
 
 thanks for visiting!
